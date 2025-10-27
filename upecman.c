@@ -69,8 +69,8 @@
 /* ---------------------------------------------------------------------- */
 /* includes */
 
-#include <bits/types/time_t.h>
-#include <curses.h>
+#include <time.h>
+//#include <curses.h>
 #include <stdio.h> /* Standard I/O functions */
 #include <stdlib.h> /* Miscellaneous functions (rand, malloc, srand)*/
 #include <ncurses.h> /* Screen handling and optimisation functions */
